@@ -271,6 +271,15 @@ text white: #eeecda */
   .contact-info a {
     color: #e9b64f;
   }
+
+  .sikester {
+      /*add background image*/
+    background-image: url(../images/SIkester.png);
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+  }
   
   /* REACH OUT STYLES END */
   
