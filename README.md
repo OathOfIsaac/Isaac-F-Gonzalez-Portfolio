@@ -4,5 +4,5 @@ Portfolio for Isaac F Gonzalez
 
 Contact form included for direct email.
 ## Livesite : 
-https://oathofisaac.github.io/Resume/
+https://oathofisaac.github.io/Isaac-F-Gonzalez-Portfolio/
 <img src="./assets/images/portfolio.png"></img>
